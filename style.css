@@ -1037,7 +1037,7 @@ transform: scaleX(1);
 
   width: 55.18rem;
   margin-top: 10%;
-  margin-left: 18%;
+  margin-left: 21%;
   font-family: "Inter-ExtraLight", Helvetica;
   font-weight: 200;
   color: transparent;
@@ -1056,6 +1056,7 @@ footer {
   margin-top: 12.5rem;
   border-radius: 2.5rem 2.5rem 0px 0px;
   padding-bottom: 0;
+  padding-inline: 0;
 }
 footer * {
   box-sizing: border-box;
